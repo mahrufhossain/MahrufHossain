@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello there 
+- 🙋‍♂️ I am Mahruf Hossain.
+- ⚡I am an Undergraduate EEE student @University of Dhaka.
+- 🧑‍💻 I am currently learning Machine Learning and related stuffs, hoping to have a good grasp over it.
+- 👨‍💻 Happy to collaborate in projects.
+
 
 <!--
 **MahrufHossain/MahrufHossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
