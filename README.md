@@ -1,7 +1,7 @@
 ## Hello there 
 - 🙋‍♂️ I am Mahruf Hossain.
 - ⚡I am an Undergraduate EEE student @University of Dhaka.
-- 🧑‍💻 I am currently learning Machine Learning and related stuffs, hoping to have a good grasp over it.
+- 🧑‍💻 I am learning Machine Learning and related stuffs, hoping to have a good grasp over it.
 - 👨‍💻 Happy to collaborate in projects.
 
 
