@@ -15,7 +15,7 @@ Hey there! I'm Mahruf Hossain, currently pursuing an undergraduate degree in **E
 - 🔋 I have a collection of electronics components and sensors that I love experimenting with!
 - 🎨 I enjoy working on creative side projects like designing interfaces and making interactive Arduino setups.
 - 📚 I love building different things.
-- 🧑‍💻 Love programming and the things with that.
+- 🧑‍💻 Love programming and the things we can do with that.
 
 ## 🚀 Monthly Projects
 
