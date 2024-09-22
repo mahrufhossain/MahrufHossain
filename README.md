@@ -1,4 +1,4 @@
-# Hello, I'm [Mahruf Hossain] 👋
+# Hello, I'm Mahruf Hossain 👋
 
 ## 🌟 About Me
 
