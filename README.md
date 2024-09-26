@@ -28,11 +28,6 @@ I'm committed to working on exciting projects every month:
 - 🔧 To design and develop innovative electronics solutions combining hardware and software.
 - 🤖 To apply **machine learning** to real-world embedded systems and make **computer vision** more accessible.
 
-## 🛠 My Tools & Components
-
-- **Arduino**: Uno, LEDs, Jumper Wires, Breadboard, Stepper Motor, DHT11, LCD1602, RFID module, and more!
-- **Software & IDEs**: Vim, Arduino IDE, VS Code
-- **Hardware Prototyping**: Breadboarding, Sensors, Motors, Displays, etc.
 
 ## 🌍 Let's Connect
 
