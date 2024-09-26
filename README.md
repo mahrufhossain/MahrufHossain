@@ -8,7 +8,7 @@ Hey there! I'm Mahruf Hossain, currently pursuing an undergraduate degree in **E
 - 💻 **Languages**: Python, C++, C, Javascript, little bit of Rust.
 - 🔬 **Fields of Interest**: Electrical Engineering, Machine Learning, Robotics, Computer Vision, AI, Embedded System etc.
 - 🌱 **Currently Learning**: Advanced ML techniques, Arduino Uno.
-- 🛠 **Tools I use**: Vim, Git, Linux, Arduino IDE, VS Code, Google Classroom (for teaching). {Yeah I did teach python to some of my friends}
+- 🛠 **Tools I use**: Vim, Git, Linux, Arduino IDE, VS Code.
 
 ## ⚡ Fun Facts
 
