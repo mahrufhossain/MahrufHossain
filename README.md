@@ -10,18 +10,6 @@ Hey there! I'm Mahruf Hossain, currently pursuing an undergraduate degree in **E
 - 🌱 **Currently Learning**: Advanced ML techniques, Arduino Uno.
 - 🛠 **Tools I use**: Vim, Git, Linux, Arduino IDE, VS Code.
 
-## ⚡ Fun Facts
-
-- 🔋 I have a collection of electronics components and sensors that I love experimenting with!
-- 🎨 I enjoy working on creative side projects like designing interfaces and making interactive Arduino setups.
-- 📚 I love building different things.
-- 🧑‍💻 Love programming and the things we can do with that.
-
-## 🚀 Monthly Projects
-
-I'm committed to working on exciting projects every month:
-- **Main Project**: Big projects like GUI application that help me learn something substantial.
-- **Side Projects**: Fun and experimental side projects, e.g., Arduino-based smart home gadgets or creative CV applications.
 
 ## 💼 Professional Goals
 
