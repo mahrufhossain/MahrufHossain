@@ -20,7 +20,7 @@ Hey there! I'm Mahruf Hossain, currently pursuing an undergraduate degree in **E
 ## 🌍 Let's Connect
 
 - 💼 **LinkedIn**: [Mahruf Hossain](https://www.linkedin.com/in/mahruf-hossain-4804a7221/)
-- 📧 **Email**: mahrufhossain97@gmail,com
+- 📧 **Email**: mahrufhossain97@gmail.com
 - 🎯 **GitHub**: [MahrufHossain](https://github.com/MahrufHossain)
 
 ---
