@@ -1,31 +1,50 @@
-# Hello!!!👋
+# 🌟 About Me
 
-## 🌟 About Me
-
-Hey there! I'm **Mahruf Hossain Maahi**, currently pursuing undergraduate studies in **Electrical and Electronics Engineering (EEE)**. I love exploring new technologies, **actually** anything that piques my interest.
-
-- 🎓 **Education**: Currently pursuing undergrad in **Electrical and Electronics Engineering (EEE)** at **University of Dhaka**.
-- 💻 **Programming Languages**: Python, C, Javascript, little bit of Rust.
-- 🔬 **Fields of Interest**: Electrical and Electronics Engineering, Machine Learning, Robotics, Computer Vision, AI, Embedded System etc.
-- 🌱 **Currently Learning**: Computer System and relevant coding, trying to go deep with the knowledge.
-- 🛠 **Tools I use**->
-  - **Editor:** Vim, VS Code
-  - **Operating System:** Linux, Windows
-  - **Software:** Git, SPICE 
-
-
-## 💼 Professional Goals
-
-- 🔧 To design and develop innovative electronics solutions combining hardware and software.
-- 🤖 To dig deep into the world of Computer System and relevant areas.
-
-
-## 🌍 Let's Connect
-
-- 💼 **LinkedIn**: [Mahruf Hossain](https://www.linkedin.com/in/mahruf-hossain-4804a7221/)
-- 📧 **Email**: mahrufhossain97@gmail.com
-- 🎯 **GitHub**: [MahrufHossain](https://github.com/MahrufHossain)
+Hey there! I'm **Mahruf Hossain Maahi**, an undergraduate student in **Electrical and Electronics Engineering (EEE)** at the **University of Dhaka**. I am passionate about exploring new technologies and diving deep into topics that ignite my curiosity.
 
 ---
 
-*This personal README was crafted to reflect my passions and journey as I continue to learn and grow in the world of tech!*
+## 🎓 Education  
+- **Undergraduate**: Electrical and Electronics Engineering (EEE), **University of Dhaka**
+
+---
+
+## 💻 Programming Skills  
+- **Languages**: Python, C, JavaScript, and some experience with Rust.
+
+---
+
+## 🔬 Fields of Interest  
+- Electrical and Electronics Engineering  
+- Machine Learning and Artificial Intelligence (AI)  
+- Robotics and Computer Vision  
+- Embedded Systems  
+
+---
+
+## 🌱 Currently Learning  
+- In-depth understanding of **Computer Systems** and **system-level programming**.
+
+---
+
+## 🛠 Tools  
+- **Editors**: Vim, VS Code  
+- **Operating Systems**: Linux, Windows  
+- **Software**: Git, SPICE  
+
+---
+
+## 💼 Professional Goals  
+- To design and develop innovative electronics solutions that seamlessly integrate hardware and software.  
+- To gain a deep understanding of **Computer Systems** and related fields.  
+
+---
+
+## 🌍 Let's Connect  
+- **LinkedIn**: [Mahruf Hossain](https://www.linkedin.com/in/mahruf-hossain-4804a7221/)  
+- **GitHub**: [MahrufHossain](https://github.com/MahrufHossain)  
+- **Email**: [Mahruf Hossain](mailto:mahrufhossain97@gmail.com)
+
+---
+
+This personal README reflects my journey, passions, and goals as I navigate the exciting world of technology. Let's build and grow together! 🚀  
