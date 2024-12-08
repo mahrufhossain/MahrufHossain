@@ -46,4 +46,4 @@ Hey there! I'm **Mahruf Hossain Maahi**, an undergraduate student in **Electrica
 - **Email**: [Mahruf Hossain](mailto:mahrufhossain97@gmail.com)
 
 
-This personal README reflects my journey, passions, and goals as I navigate the exciting world of technology. Let's build and grow together! 🚀  
+*This personal README reflects my journey, passions, and goals as I navigate the exciting world of technology. Let's build and grow together! 🚀*
