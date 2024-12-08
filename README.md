@@ -5,16 +5,19 @@
 Hey there! I'm Mahruf Hossain, currently pursuing an undergraduate degree in **Electrical and Electronics Engineering (EEE)**. I love exploring new technologies, anything that piques my interest.
 
 - 🎓 **Education**: Currently pursuing **Electrical and Electronics Engineering (EEE)** at **University of Dhaka**.
-- 💻 **Languages**: Python, C++, C, Javascript, little bit of Rust.
+- 💻 **Programming Languages**: Python, C, Javascript, little bit of Rust.
 - 🔬 **Fields of Interest**: Electrical Engineering, Machine Learning, Robotics, Computer Vision, AI, Embedded System etc.
-- 🌱 **Currently Learning**: Advanced ML techniques, Arduino Uno.
-- 🛠 **Tools I use**: Vim, Git, Linux, Arduino IDE, VS Code.
+- 🌱 **Currently Learning**: Computer System and relevant coding, trying to go deep with the knowledge.
+- 🛠 **Tools I use**->
+      - **Editor:** Vim, VS Code
+      - **Operating System:** Linux, Windows
+      - **Software:** Git, SPICE 
 
 
 ## 💼 Professional Goals
 
 - 🔧 To design and develop innovative electronics solutions combining hardware and software.
-- 🤖 To apply **machine learning** to real-world embedded systems and make **computer vision** more accessible.
+- 🤖 To dig deep into the world of Computer System and relevant areas.
 
 
 ## 🌍 Let's Connect
