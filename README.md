@@ -1,8 +1,8 @@
-# Hello, I'm Mahruf Hossain Maahi👋
+# Hello!!!👋
 
 ## 🌟 About Me
 
-Hey there! I'm Mahruf Hossain Maahi, currently pursuing undergraduate studies in **Electrical and Electronics Engineering (EEE)**. I love exploring new technologies, **actually** anything that piques my interest.
+Hey there! I'm **Mahruf Hossain Maahi**, currently pursuing undergraduate studies in **Electrical and Electronics Engineering (EEE)**. I love exploring new technologies, **actually** anything that piques my interest.
 
 - 🎓 **Education**: Currently pursuing undergrad in **Electrical and Electronics Engineering (EEE)** at **University of Dhaka**.
 - 💻 **Programming Languages**: Python, C, Javascript, little bit of Rust.
