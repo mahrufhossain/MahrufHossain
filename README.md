@@ -9,9 +9,9 @@ Hey there! I'm Mahruf Hossain, currently pursuing an undergraduate degree in **E
 - 🔬 **Fields of Interest**: Electrical Engineering, Machine Learning, Robotics, Computer Vision, AI, Embedded System etc.
 - 🌱 **Currently Learning**: Computer System and relevant coding, trying to go deep with the knowledge.
 - 🛠 **Tools I use**->
-      - **Editor:** Vim, VS Code
-      - **Operating System:** Linux, Windows
-      - **Software:** Git, SPICE 
+  - **Editor:** Vim, VS Code
+  - **Operating System:** Linux, Windows
+  - **Software:** Git, SPICE 
 
 
 ## 💼 Professional Goals
