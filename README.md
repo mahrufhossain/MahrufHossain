@@ -1,4 +1,4 @@
-# 🌟 About Me
+# About Me
 
 Hey there! I'm **Mahruf Hossain Maahi**, an undergraduate student in **Electrical and Electronics Engineering (EEE)** at the **University of Dhaka**. I am passionate about exploring new technologies and diving deep into topics that ignite my curiosity.
 
