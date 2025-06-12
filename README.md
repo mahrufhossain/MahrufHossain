@@ -16,9 +16,9 @@ Hey there! I'm **Mahruf Hossain Maahi**, an undergraduate student in **Electrica
 
 ## 🔬 Fields of Interest  
 - Embedded Systems and Low-Level Programming  
-- Computer Systems  
+- Computer Systems & Architecture
 - Robotics and Computer Vision  
-- Machine Learning and Artificial Intelligence (AI)  
+- Machine Learning and Artificial Intelligence (AI) 
 
 
 
